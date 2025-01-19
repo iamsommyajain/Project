@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: Project
+Version: 0.0.1
+Author-email: sommyajain2005@gmail.com
+Requires: pandas
+Requires: numpy
+Requires: seaborn
